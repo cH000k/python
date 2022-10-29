@@ -1,0 +1,11 @@
+number,state,closed_at,opened_at,resolved_at,u_research_assessment
+INC1234567,In Progress,1/1/2022 0:00,,,Credential Issue
+,On Hold,blank,1/1/2022 0:00,,Data Issue
+,Resolved,1/1/2021 0:00,,1/1/2022 0:00,ESHD Alert
+,Closed,1/1/2023 0:00,,blank,Failure > Alert
+,,,,,Login Issue
+,,,,,Product Issue
+,,,,,System Issue
+,,,,,Tableau Issue
+,,,,,Workspace Issue
+,,,,,blank
