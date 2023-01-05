@@ -1,89 +1,89 @@
-number,state,opened_at,resolved_at,closed_at,u_research_assessment,correlation_display
-INC1234577,Resolved,1/1/2022,1/2/2022,2/1/2022,Data Issue,S
-INC1234578,Resolved,1/2/2022,1/3/2022,2/2/2022,Login Issue,S
-INC1234579,Resolved,1/3/2022,1/4/2022,2/3/2022,Product Issue,M
-INC1234580,Resolved,1/4/2022,1/5/2022,2/4/2022,System Issue,M
-INC1234581,Resolved,1/5/2022,1/6/2022,2/5/2022,Workspace Issue,M
-INC1234582,Resolved,2/1/2022,2/1/2022,3/1/2022,Credential Issue,S
-INC1234583,Resolved,2/2/2022,2/2/2022,3/2/2022,Data Issue,S
-INC1234584,Resolved,2/3/2022,2/3/2022,3/3/2022,Login Issue,S
-INC1234585,Resolved,3/1/2022,3/1/2022,4/3/2022,Product Issue,L
-INC1234586,Resolved,3/2/2022,3/2/2022,4/4/2022,System Issue,S
-INC1234587,Resolved,3/3/2022,3/3/2022,4/5/2022,Workspace Issue,S
-INC1234588,Resolved,3/4/2022,4/1/2022,5/2/2022,Credential Issue,M
-INC1234589,Resolved,4/1/2022,4/2/2022,5/3/2022,Data Issue,M
-INC1234590,Resolved,4/2/2022,4/3/2022,5/4/2022,Login Issue,M
-INC1234591,Resolved,5/1/2022,5/1/2022,6/2/2022,Product Issue,S
-INC1234592,Resolved,5/2/2022,5/2/2022,6/3/2022,System Issue,S
-INC1234593,Resolved,5/3/2022,5/3/2022,6/4/2022,Workspace Issue,S
-INC1234594,Resolved,5/4/2022,6/2/2022,7/4/2022,Credential Issue,L
-INC1234595,Resolved,6/2/2022,6/3/2022,7/5/2022,Data Issue,S
-INC1234596,Closed,6/3/2022,7/3/2022,8/5/2022,Login Issue,S
-INC1234597,Closed,6/4/2022,7/4/2022,8/6/2022,Product Issue,M
-INC1234598,Closed,7/3/2022,7/5/2022,8/7/2022,System Issue,M
-INC1234599,Closed,7/4/2022,7/6/2022,8/8/2022,Empty,M
-INC1234600,Closed,8/4/2022,8/5/2022,9/7/2022,Workspace Issue,S
-INC1234601,Closed,8/5/2022,8/6/2022,9/8/2022,Login Issue,S
-INC1234602,Closed,8/6/2022,8/7/2022,9/9/2022,ESHD Alert,S
-INC1234603,Closed,8/7/2022,9/7/2022,10/10/2022,Failure > Alert,L
-INC1234604,Closed,9/7/2022,9/8/2022,10/11/2022,Tableau Issue,S
-INC1234605,Closed,9/8/2022,9/9/2022,10/12/2022,Product Issue,S
-INC1234606,Closed,9/9/2022,9/10/2022,10/13/2022,System Issue,M
-INC1234607,Closed,10/9/2022,10/10/2022,11/14/2022,Workspace Issue,M
-INC1234608,Closed,10/10/2022,10/11/2022,11/15/2022,Credential Issue,M
-INC1234609,Closed,10/11/2022,10/12/2022,11/16/2022,Data Issue,S
-INC1234610,Closed,10/12/2022,10/13/2022,11/17/2022,Login Issue,S
-INC1234611,Resolved,11/1/2022,11/2/2022,12/2/2022,Credential Issue,S
-INC1234612,Resolved,11/2/2022,11/3/2022,12/3/2022,Data Issue,L
-INC1234613,Resolved,11/14/2022,11/15/2022,12/24/2022,Login Issue,S
-INC1234614,Resolved,11/15/2022,11/16/2022,12/25/2022,Product Issue,S
-INC1234615,Resolved,11/16/2022,11/17/2022,12/26/2022,Credential Issue,M
-INC1234616,In Progress,12/5/2022,12/6/2022,01/01/2200,Data Issue,M
-INC1234617,Resolved,12/1/2022,12/2/2022,01/01/2200,Login Issue,M
-INC1234618,In Progress,12/2/2022,12/5/2022,01/01/2200,Credential Issue,S
-INC1234619,Resolved,12/3/2022,12/4/2022,01/01/2200,Empty,S
-INC1234627,Closed,1/1/2021,1/2/2021,2/4/2021,Login Issue,S
-INC1234628,Closed,1/2/2021,1/3/2021,2/5/2021,Product Issue,L
-INC1234629,Closed,1/3/2021,1/4/2021,2/6/2021,System Issue,S
-INC1234630,Closed,2/3/2021,2/4/2021,3/4/2021,Workspace Issue,S
-INC1234631,Closed,2/4/2021,3/4/2021,4/5/2021,Login Issue,M
-INC1234632,Closed,3/4/2021,3/5/2021,4/6/2021,Product Issue,M
-INC1234633,Closed,3/5/2021,4/5/2021,5/8/2021,Credential Issue,M
-INC1234634,Closed,4/5/2021,4/6/2021,5/9/2021,Data Issue,S
-INC1234635,Closed,4/6/2021,4/7/2021,5/10/2021,Login Issue,S
-INC1234636,Closed,5/6/2021,5/8/2021,6/10/2021,Empty,S
-INC1234637,Closed,5/7/2021,6/9/2021,7/10/2021,System Issue,L
-INC1234638,Closed,5/8/2021,6/10/2021,7/11/2021,Workspace Issue,S
-INC1234639,Closed,6/8/2021,6/11/2021,7/12/2021,Product Issue,S
-INC1234640,Closed,6/9/2021,6/12/2021,7/13/2021,System Issue,M
-INC1234641,Closed,7/9/2021,7/10/2021,8/12/2021,Workspace Issue,M
-INC1234642,Closed,7/10/2021,7/11/2021,8/13/2021,Credential Issue,M
-INC1234643,Closed,7/11/2021,7/12/2021,8/14/2021,Data Issue,S
-INC1234644,Closed,7/12/2021,7/13/2021,8/15/2021,Credential Issue,S
-INC1234645,Closed,8/11/2021,8/12/2021,9/15/2021,Data Issue,S
-INC1234646,Closed,8/12/2021,8/13/2021,9/16/2021,Login Issue,M
-INC1234647,Closed,8/13/2021,9/15/2021,10/20/2021,Product Issue,M
-INC1234648,Closed,8/14/2021,9/16/2021,10/21/2021,Credential Issue,M
-INC1234649,Closed,8/15/2021,9/17/2021,10/22/2021,Data Issue,S
-INC1234650,Closed,9/15/2021,9/18/2021,10/23/2021,Login Issue,S
-INC1234651,Closed,9/16/2021,9/19/2021,10/24/2021,Product Issue,S
-INC1234652,Closed,10/16/2021,10/20/2021,11/20/2021,System Issue,L
-INC1234653,Closed,10/17/2021,10/21/2021,11/21/2021,Workspace Issue,S
-INC1234654,Closed,10/18/2021,10/22/2021,11/22/2021,Login Issue,S
-INC1234655,Closed,10/19/2021,10/23/2021,11/23/2021,ESHD Alert,S
-INC1234656,Closed,10/20/2021,10/24/2021,11/24/2021,Failure > Alert,M
-INC1234657,Closed,10/21/2021,11/20/2021,12/23/2021,Tableau Issue,M
-INC1234658,Closed,10/22/2021,11/21/2021,12/24/2021,Credential Issue,M
-INC1234659,Closed,10/23/2021,11/22/2021,12/25/2021,Data Issue,S
-INC1234660,Closed,11/20/2021,11/23/2021,12/26/2021,Login Issue,S
-INC1234661,Closed,11/21/2021,11/24/2021,12/27/2021,Product Issue,S
-INC1234662,Closed,11/22/2021,11/25/2021,12/28/2021,System Issue,L
-INC1234663,Closed,11/23/2021,12/23/2021,1/1/2022,Workspace Issue,S
-INC1234664,Closed,12/23/2021,12/24/2021,1/2/2022,System Issue,S
-INC1234665,Closed,12/24/2021,1/1/2022,2/2/2022,Workspace Issue,M
-INC1234666,Closed,12/25/2021,1/2/2022,2/3/2022,Empty,M
-INC1234667,In Progress,1/1/2023,01/01/2200,01/01/2200,Workspace Issue,M
-INC1234668,In Progress,1/2/2023,01/01/2200,01/01/2200,Workspace Issue,M
-INC1234669,In Progress,1/2/2023,01/01/2200,01/01/2200,System Issue,L
-INC1234670,Resolved,1/1/2023,1/2/2023,01/01/2200,Login Issue,S
-INC1234671,Resolved,1/2/2023,1/2/2023,01/01/2200,Product Issue,L
+number,state,opened_at,resolved_at,closed_at,u_research_assessment,correlation_display,u_previous_assignment_group,reassignment_count
+INC1234577,Resolved,1/1/2022,1/2/2022,2/1/2022,Data Issue,S,Analytics Platform L1 Support,1
+INC1234578,Resolved,1/2/2022,1/3/2022,2/2/2022,Login Issue,S,Analytics Platform L1 Support,1
+INC1234579,Resolved,1/3/2022,1/4/2022,2/3/2022,Product Issue,M,Analytics Platform L2 Support,2.0
+INC1234580,Resolved,1/4/2022,1/5/2022,2/4/2022,System Issue,M,Analytics Platform L2 Support,2.0
+INC1234581,Resolved,1/5/2022,1/6/2022,2/5/2022,Workspace Issue,M,Analytics Platform L1 Support,1
+INC1234582,Resolved,2/1/2022,2/1/2022,3/1/2022,Credential Issue,S,Analytics Platform L1 Support,1
+INC1234583,Resolved,2/2/2022,2/2/2022,3/2/2022,Data Issue,S,Analytics Platform L1 Support,1
+INC1234584,Resolved,2/3/2022,2/3/2022,3/3/2022,Login Issue,S,Analytics Platform L1 Support,1
+INC1234585,Resolved,3/1/2022,3/1/2022,4/3/2022,Product Issue,L,Analytics Platform L1 Support,1
+INC1234586,Resolved,3/2/2022,3/2/2022,4/4/2022,System Issue,S,Analytics Platform L3 Support,3.0
+INC1234587,Resolved,3/3/2022,3/3/2022,4/5/2022,Workspace Issue,S,Analytics Platform L1 Support,1
+INC1234588,Resolved,3/4/2022,4/1/2022,5/2/2022,Credential Issue,M,Analytics Platform L1 Support,1
+INC1234589,Resolved,4/1/2022,4/2/2022,5/3/2022,Data Issue,M,Analytics Platform L1 Support,1
+INC1234590,Resolved,4/2/2022,4/3/2022,5/4/2022,Login Issue,M,Analytics Platform L1 Support,1
+INC1234591,Resolved,5/1/2022,5/1/2022,6/2/2022,Product Issue,S,Analytics Platform L2 Support,2.0
+INC1234592,Resolved,5/2/2022,5/2/2022,6/3/2022,System Issue,S,Analytics Platform L2 Support,2.0
+INC1234593,Resolved,5/3/2022,5/3/2022,6/4/2022,Workspace Issue,S,Analytics Platform L1 Support,1
+INC1234594,Resolved,5/4/2022,6/2/2022,7/4/2022,Credential Issue,L,Analytics Platform L1 Support,1
+INC1234595,Resolved,6/2/2022,6/3/2022,7/5/2022,Data Issue,S,Analytics Platform L1 Support,1
+INC1234596,Closed,6/3/2022,7/3/2022,8/5/2022,Login Issue,S,Analytics Platform L1 Support,1
+INC1234597,Closed,6/4/2022,7/4/2022,8/6/2022,Product Issue,M,Analytics Platform L3 Support,3.0
+INC1234598,Closed,7/3/2022,7/5/2022,8/7/2022,System Issue,M,Analytics Platform L1 Support,1
+INC1234599,Closed,7/4/2022,7/6/2022,8/8/2022,Empty,M,Analytics Platform L1 Support,1
+INC1234600,Closed,8/4/2022,8/5/2022,9/7/2022,Workspace Issue,S,Analytics Platform L1 Support,1
+INC1234601,Closed,8/5/2022,8/6/2022,9/8/2022,Login Issue,S,Analytics Platform L1 Support,1
+INC1234602,Closed,8/6/2022,8/7/2022,9/9/2022,ESHD Alert,S,Analytics Platform L1 Support,1
+INC1234603,Closed,8/7/2022,9/7/2022,10/10/2022,Failure > Alert,L,Analytics Platform L1 Support,1
+INC1234604,Closed,9/7/2022,9/8/2022,10/11/2022,Tableau Issue,S,Analytics Platform L1 Support,1
+INC1234605,Closed,9/8/2022,9/9/2022,10/12/2022,Product Issue,S,Analytics Platform L1 Support,1
+INC1234606,Closed,9/9/2022,9/10/2022,10/13/2022,System Issue,M,Analytics Platform L2 Support,2.0
+INC1234607,Closed,10/9/2022,10/10/2022,11/14/2022,Workspace Issue,M,Analytics Platform L2 Support,2.0
+INC1234608,Closed,10/10/2022,10/11/2022,11/15/2022,Credential Issue,M,Analytics Platform L2 Support,2.0
+INC1234609,Closed,10/11/2022,10/12/2022,11/16/2022,Data Issue,S,Analytics Platform L1 Support,1
+INC1234610,Closed,10/12/2022,10/13/2022,11/17/2022,Login Issue,S,Analytics Platform L1 Support,1
+INC1234611,Resolved,11/1/2022,11/2/2022,12/2/2022,Credential Issue,S,Analytics Platform L3 Support,2.0
+INC1234612,Resolved,11/2/2022,11/3/2022,12/3/2022,Data Issue,L,Analytics Platform L1 Support,1
+INC1234613,Resolved,11/14/2022,11/15/2022,12/24/2022,Login Issue,S,Analytics Platform L1 Support,1
+INC1234614,Resolved,11/15/2022,11/16/2022,12/25/2022,Product Issue,S,Analytics Platform L1 Support,1
+INC1234615,Resolved,11/16/2022,11/17/2022,12/26/2022,Credential Issue,M,Analytics Platform L1 Support,1
+INC1234616,In Progress,12/5/2022,12/6/2022,01/01/2200,Data Issue,M,Analytics Platform L1 Support,1
+INC1234617,Resolved,12/1/2022,12/2/2022,01/01/2200,Login Issue,M,Analytics Platform L1 Support,1
+INC1234618,In Progress,12/2/2022,12/5/2022,01/01/2200,Credential Issue,S,Analytics Platform L3 Support,2.0
+INC1234619,Resolved,12/3/2022,12/4/2022,01/01/2200,Empty,S,Analytics Platform L1 Support,1
+INC1234627,Closed,1/1/2021,1/2/2021,2/4/2021,Login Issue,S,Analytics Platform L1 Support,1
+INC1234628,Closed,1/2/2021,1/3/2021,2/5/2021,Product Issue,L,Analytics Platform L1 Support,1
+INC1234629,Closed,1/3/2021,1/4/2021,2/6/2021,System Issue,S,Analytics Platform L2 Support,2.0
+INC1234630,Closed,2/3/2021,2/4/2021,3/4/2021,Workspace Issue,S,Analytics Platform L2 Support,2.0
+INC1234631,Closed,2/4/2021,3/4/2021,4/5/2021,Login Issue,M,Analytics Platform L2 Support,2.0
+INC1234632,Closed,3/4/2021,3/5/2021,4/6/2021,Product Issue,M,Analytics Platform L1 Support,1
+INC1234633,Closed,3/5/2021,4/5/2021,5/8/2021,Credential Issue,M,Analytics Platform L1 Support,1
+INC1234634,Closed,4/5/2021,4/6/2021,5/9/2021,Data Issue,S,Analytics Platform L1 Support,1
+INC1234635,Closed,4/6/2021,4/7/2021,5/10/2021,Login Issue,S,Teradata Strategy & Operations Support,2.0
+INC1234636,Closed,5/6/2021,5/8/2021,6/10/2021,Empty,S,Analytics Platform L1 Support,1
+INC1234637,Closed,5/7/2021,6/9/2021,7/10/2021,System Issue,L,Analytics Platform L3 Support,3.0
+INC1234638,Closed,5/8/2021,6/10/2021,7/11/2021,Workspace Issue,S,Analytics Platform L1 Support,1
+INC1234639,Closed,6/8/2021,6/11/2021,7/12/2021,Product Issue,S,Analytics Platform L1 Support,1
+INC1234640,Closed,6/9/2021,6/12/2021,7/13/2021,System Issue,M,Analytics Platform L1 Support,1
+INC1234641,Closed,7/9/2021,7/10/2021,8/12/2021,Workspace Issue,M,Analytics Platform L1 Support,1
+INC1234642,Closed,7/10/2021,7/11/2021,8/13/2021,Credential Issue,M,Analytics Platform L1 Support,1
+INC1234643,Closed,7/11/2021,7/12/2021,8/14/2021,Data Issue,S,Teradata Strategy & Operations Support,2.0
+INC1234644,Closed,7/12/2021,7/13/2021,8/15/2021,Credential Issue,S,Analytics Platform L1 Support,1
+INC1234645,Closed,8/11/2021,8/12/2021,9/15/2021,Data Issue,S,Analytics Platform L1 Support,1
+INC1234646,Closed,8/12/2021,8/13/2021,9/16/2021,Login Issue,M,Analytics Platform L1 Support,1
+INC1234647,Closed,8/13/2021,9/15/2021,10/20/2021,Product Issue,M,Analytics Platform L1 Support,1
+INC1234648,Closed,8/14/2021,9/16/2021,10/21/2021,Credential Issue,M,Analytics Platform L1 Support,1
+INC1234649,Closed,8/15/2021,9/17/2021,10/22/2021,Data Issue,S,Analytics Platform L1 Support,1
+INC1234650,Closed,9/15/2021,9/18/2021,10/23/2021,Login Issue,S,Analytics Platform L3 Support,2.0
+INC1234651,Closed,9/16/2021,9/19/2021,10/24/2021,Product Issue,S,Analytics Platform L1 Support,1
+INC1234652,Closed,10/16/2021,10/20/2021,11/20/2021,System Issue,L,Analytics Platform L1 Support,1
+INC1234653,Closed,10/17/2021,10/21/2021,11/21/2021,Workspace Issue,S,Analytics Platform L1 Support,1
+INC1234654,Closed,10/18/2021,10/22/2021,11/22/2021,Login Issue,S,Analytics Platform L1 Support,1
+INC1234655,Closed,10/19/2021,10/23/2021,11/23/2021,ESHD Alert,S,Analytics Platform L1 Support,1
+INC1234656,Closed,10/20/2021,10/24/2021,11/24/2021,Failure > Alert,M,Analytics Platform L1 Support,1
+INC1234657,Closed,10/21/2021,11/20/2021,12/23/2021,Tableau Issue,M,Analytics Platform L2 Support,2.0
+INC1234658,Closed,10/22/2021,11/21/2021,12/24/2021,Credential Issue,M,Analytics Platform L2 Support,2.0
+INC1234659,Closed,10/23/2021,11/22/2021,12/25/2021,Data Issue,S,Analytics Platform L2 Support,2.0
+INC1234660,Closed,11/20/2021,11/23/2021,12/26/2021,Login Issue,S,Analytics Platform L1 Support,1
+INC1234661,Closed,11/21/2021,11/24/2021,12/27/2021,Product Issue,S,Analytics Platform L1 Support,1
+INC1234662,Closed,11/22/2021,11/25/2021,12/28/2021,System Issue,L,Analytics Platform L1 Support,1
+INC1234663,Closed,11/23/2021,12/23/2021,1/1/2022,Workspace Issue,S,Analytics Platform L1 Support,1
+INC1234664,Closed,12/23/2021,12/24/2021,1/2/2022,System Issue,S,Teradata Strategy & Operations Support,2.0
+INC1234665,Closed,12/24/2021,1/1/2022,2/2/2022,Workspace Issue,M,Analytics Platform L1 Support,1
+INC1234666,Closed,12/25/2021,1/2/2022,2/3/2022,Empty,M,Analytics Platform L1 Support,1
+INC1234667,In Progress,1/1/2023,01/01/2200,01/01/2200,Workspace Issue,M,Analytics Platform L1 Support,1
+INC1234668,In Progress,1/2/2023,01/01/2200,01/01/2200,Workspace Issue,M,Analytics Platform L1 Support,1
+INC1234669,In Progress,1/2/2023,01/01/2200,01/01/2200,System Issue,L,Analytics Platform L1 Support,1
+INC1234670,Resolved,1/1/2023,1/2/2023,01/01/2200,Login Issue,S,Analytics Platform L1 Support,1
+INC1234671,Resolved,1/2/2023,1/2/2023,01/01/2200,Product Issue,L,Analytics Platform L1 Support,1
